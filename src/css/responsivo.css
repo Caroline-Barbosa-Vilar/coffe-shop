@@ -1,0 +1,130 @@
+@media (max-width: 992px) {
+  .text-section {
+    padding: 153px 25px;
+  }
+  .text-section,
+  .text-section.location p {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .panel h2 {
+    font-size: 5rem;
+  }
+  .text-section h2 {
+    font-size: 3rem;
+  }
+  .text-section p {
+    text-align: center;
+    padding: 45px;
+  }
+  .text-section.location h2 {
+    font-size: 3rem;
+  }
+  .text-section.location p {
+    font-size: 2rem;
+    padding: 20px;
+  }
+  .contact {
+    background: none;
+    background-color: #d3ae71;
+  }
+  .contact .text {
+    position: relative;
+    text-align: center;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+  }
+  .contact h2 {
+    margin-bottom: 46px;
+    font-size: 3rem;
+  }
+  .contact .text address {
+    font-size: 2rem;
+  }
+
+}
+
+@media (max-width: 720px) {
+  .text-section p {
+    text-align: center;
+    padding: 45px;
+  } 
+  .panel h2{
+    font-size: 4rem;
+  } 
+  .mosaic .large,
+  .mosaic .medium {
+    width: 100%;
+  }
+  .mosaic .small.cup, 
+  .mosaic .small.grain{
+    width: 50%;
+  } 
+  .footer {
+    text-align: center;
+    background-image: none;
+    background-color: #000000;
+  }
+  .footer .logo {
+    display: block;  
+    margin-bottom: 122px;
+  }
+  .footer ul {
+    display: block;
+    margin-bottom: 122px;
+  }
+  .footer ul li {
+    display: block;
+  }
+  .footer ul li a{
+    font-size: 1.8rem;
+  }
+  .footer .social-media {
+    float: none;
+    margin-bottom: 28px;
+  }
+}
+
+@media (max-width: 425px) {
+  .header .logo {
+    display: block;
+    margin: 0 auto;
+  }
+
+  .header nav {
+    position: static;
+    text-align: center;
+    width: 100%;
+  }
+
+  .header nav ul li{
+    display: block;
+  }
+
+  .header nav ul li a {
+    width: 100%;
+    display: block;
+  }
+
+  .panel h2 {
+    font-size: 2.5rem;
+  }
+
+  .text-section h2 {
+    font-size: 3rem;
+  }
+
+  .text-section.location p {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 375px) {
+  .mosaic .small.grain,
+  .mosaic .small.cup {
+    width: 100%;
+}
+}

@@ -1,0 +1,183 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  max-width: 1440px;
+  margin: 0 auto;
+  font-size: 1.6rem;
+}
+
+.header {
+  padding: 30px 15px;
+  position: relative;
+}
+
+.header .logo {
+  background: url(src/images/logo.jpg) center no-repeat;
+  width: 85px;
+  height: 85px;
+  display: inline-block;
+}
+
+.header .logo h1{
+  font-size: 0;
+}
+
+.header nav {
+  display: inline-block;
+  position: absolute;
+  right: 0;
+  margin-top: 30px;
+}
+
+.header ul li {
+  display: inline-block;
+  padding: 15px;
+}
+
+.header ul li a:hover {
+  font-weight: bold;
+}
+
+.panel {
+  background: url(src/images/painel.jpg) center center no-repeat;
+  height: 600px;
+}
+
+.panel h2 {
+  color: #ffffff;
+  font-size: 60px;
+  font-weight: 400;
+  text-align: center;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.text-section {
+  padding: 153px;
+  text-align: center;
+  clear: both;
+}
+
+.text-section img {
+  width: 170px;
+  height: 170px;
+  margin-bottom: 70px;
+}
+
+.text-section h2 {
+  font-size: 35px;
+  font-weight: 600;
+  margin-bottom: 33px;
+}
+
+.text-section p {
+  font-size: 18px;
+  width: 702px;
+  margin: 0 auto;
+}
+
+.text-section.location p {
+  font-size: 25px;
+  font-weight: 400;
+  width: 310px;
+}
+
+.mosaic div {
+  float: left;
+}
+
+.mosaic .large {
+  background: url(src/images/4.jpg) center center no-repeat;
+  height: 600px;
+  width: 50%;
+}
+
+.mosaic .small.grain {
+  background: url(src/images/2.jpg) center center no-repeat;
+  height: 300px;
+  width: 25%;
+}
+
+.mosaic .small.cup {
+  background: url(src/images/3.jpg) center center no-repeat;
+  height: 300px;
+  width: 25%;
+}
+
+.mosaic .medium {
+  background: url(src/images/1.jpg) center center no-repeat;
+  height: 300px;
+  width: 50%;
+}
+
+.contact {
+  background: url(src/images/fundo-contato.jpg) center center no-repeat;
+  color: #ffffff;
+  height: 600px;
+  position: relative;
+}
+
+.contact h2 {
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.contact address {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.contact .text {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  margin-bottom: 30px;
+  line-height: 37px;
+}
+
+.footer {
+  background: url(src/images/fundo-rodape.jpg) center center no-repeat;
+  padding: 35px 30px;
+  background-size: cover;
+}
+
+.footer ul {
+  float: right;
+  margin-top: 30px;
+}
+
+.footer ul li {
+  display: inline-block;
+  padding: 15px;
+}
+
+.footer ul li a {
+  color: #ffffff;
+}
+
+.footer ul li a:hover {
+  font-weight: bold;
+}
+
+.footer .copyright {
+  color: #ffffff;
+}
+
+.footer .social-media .facebook, 
+.footer .social-media .instagram {
+  width: 20px;
+  height: 20px;
+  margin: 10px;
+}
+
+.footer .social-media {
+  float: right;
+  clear: both;
+}
+
+.footer .bottom-container {
+  margin-top: 40px;
+}

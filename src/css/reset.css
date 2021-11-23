@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: 0;
+  font-weight: 300;
+  box-sizing: border-box;
+  font-family: 'Source Serif Pro', serif;
+}
+
+/*@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@300;400;600&display=swap');*/
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+ul {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+}
