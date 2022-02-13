@@ -14,7 +14,7 @@ body {
 }
 
 .header .logo {
-  background: url(src/images/logo.jpg) center no-repeat;
+  background: url(src/images/logo.jpg) center center no-repeat;
   width: 85px;
   height: 85px;
   display: inline-block;
@@ -70,7 +70,7 @@ body {
 .text-section h2 {
   font-size: 35px;
   font-weight: 600;
-  margin-bottom: 33px;
+  margin-bottom: 37px;
 }
 
 .text-section p {
@@ -80,9 +80,8 @@ body {
 }
 
 .text-section.location p {
-  font-size: 25px;
-  font-weight: 400;
-  width: 310px;
+  font-size: 28px;
+  width: 480px;
 }
 
 .mosaic div {
