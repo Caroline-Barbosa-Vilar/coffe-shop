@@ -1,6 +1,6 @@
-# Coffe Shop project
+# Code Coffe Shop project
 
-Project created in the responsive layout course 
+Project focused in creating a responsive layout.
 
 [<img src="" alt="Coffee shop project screen gif">]()
 
@@ -11,7 +11,7 @@ Project created in the responsive layout course
 
 ## What I learned
 
-- Create a mosaic section;
-- How to use font-awesome to put the the social media links instead of using images;
-- Creating a responsive layout.
+- How to create a favicon using an image;
+- ;
+- .
 
