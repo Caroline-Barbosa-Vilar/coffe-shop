@@ -14,7 +14,8 @@ Mobile
 
 [<img src="./src/code-cel-screen.gif" alt="Coffee shop project screen gif">]
 
-Figma layout
+
+## Figma layout
 
 https://www.figma.com/file/kH2hMM9MYhbvRHVMaDTRWo/Projeto-Landing-Page?node-id=0%3A1
 
