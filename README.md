@@ -4,7 +4,7 @@ Project focused in creating a responsive layout.
 
 Desktop 
 
-[<img src="./src/code-desktop-screen.gif" alt="Coffee shop project screen gif">]()
+[<img src="./src/code-desktop-screen.gif" alt="Coffee shop project screen gif">](https://bo83dev.github.io/coffe-shop/)
 
 Tablet
 
@@ -22,6 +22,4 @@ Mobile
 ## What I learned
 
 - How to create a favicon using an image;
-- ;
-- .
-
+- Creating responsive layouts to different sizes of screens.
