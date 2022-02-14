@@ -2,7 +2,14 @@
 
 Project focused in creating a responsive layout.
 
-[<img src="" alt="Coffee shop project screen gif">]()
+Desktop 
+[<img src="./src/code-desktop-screen.gif" alt="Coffee shop project screen gif">]()
+
+Tablet
+[<img src="./src/code-tablet-screen.gif" alt="Coffee shop project screen gif">]
+
+Mobile
+[<img src="./src/code-cel-screen.gif" alt="Coffee shop project screen gif">]
 
 ## Technologies
 
