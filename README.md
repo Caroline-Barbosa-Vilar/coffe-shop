@@ -4,6 +4,17 @@ Project focused in creating a responsive layout.
 
 https://bo83dev.github.io/coffe-shop/
 
+
+## Technologies
+
+- HTML;
+- CSS.
+
+## What I learned
+
+- How to create a favicon using an image;
+- Creating responsive layouts to different sizes of screens.
+
 Desktop 
 
 <img src="./src/code-desktop-screen.gif" alt="Coffee shop project screen gif">
@@ -20,13 +31,3 @@ Mobile
 ## Figma design
 
 https://www.figma.com/file/kH2hMM9MYhbvRHVMaDTRWo/Projeto-Landing-Page?node-id=0%3A1
-
-## Technologies
-
-- HTML;
-- CSS.
-
-## What I learned
-
-- How to create a favicon using an image;
-- Creating responsive layouts to different sizes of screens.
