@@ -45,7 +45,7 @@ This is a landing page for a fictitious coffe shop. This project was created dur
 
 ## Access the Project
 
-You can [access the project here](https://bo83dev.github.io/coffe-shop/) 
+You can [access the project here](https://caroline-barbosa-vilar.github.io/coffe-shop/) 
 
 Mobile
 
@@ -107,7 +107,7 @@ Essa é uma landing page de uma cafeteria fictícia. Esse projeto foi criado dur
 
 ## Acesse o projeto
 
-Você pode [acessar o projeto aqui](https://bo83dev.github.io/coffe-shop/) 
+Você pode [acessar o projeto aqui](https://caroline-barbosa-vilar.github.io/coffe-shop/) 
 
 Mobile
 
@@ -124,4 +124,5 @@ Tablet
 
 <hr>
 
-Developed with 🧡 by me!  [Carol Vilar](https://www.linkedin.com/in/carolinebarbosavilar/)
+Developed with 🧡 by [me](https://www.linkedin.com/in/carolinebarbosavilar/)!
+
